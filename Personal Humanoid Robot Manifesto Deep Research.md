@@ -1,4 +1,4 @@
-# Humanoid Robot Manifesto
+# Personal Humanoid Robot Manifesto
 #### By Robert Salita, Paris France, 12-Mar-2025
 
 ## Our Mission  
