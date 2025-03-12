@@ -1,6 +1,5 @@
-Great! I'll enhance the manifesto by adding more details on key humanoid robot components like sensors, actuators, and batteries. I'll also expand the use cases for personal humanoid robots, provide insights into companies actively working in this space, and give a high-level overview of legislation, security, and ethics considerations. I'll ensure that references focus on humanoid robots, especially for personal use. I'll let you know when the updated version is ready.
-
 # Humanoid Robot Manifesto
+#### By Robert Salita, Paris France, 12-Mar-2025
 
 ## Our Mission  
 We are the ambassadors for the Humanoid Robot (HuR) age – our mission is to **educate**, **demonstrate**, **specify**, and **publish** knowledge about humanoid robots. We aim to inform the world about the upcoming robotic cultural revolution and ensure society is prepared for the profound changes it will bring. By sharing insights and best practices, we hope to guide the responsible development and adoption of personal humanoid robots for the benefit of all.
